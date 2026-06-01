@@ -1,0 +1,21 @@
+{
+  "name": "order-tile-designer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Visual designer for CSOR Order Tile configurations (ISR_APP_CFG_ORDER_TILE_*) with SQL generation and round-trip import.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}

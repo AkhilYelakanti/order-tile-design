@@ -2,7 +2,7 @@
 
 A visual editor for **Order Tile** configurations. Lay out a tile on a grid,
 mark label/value cells, set CSS and calculated formulas, and generate the
-`ORDER_TILE_HDR` / `ORDER_TILE_DTL` insert script — or
+`ISR_APP_CFG_ORDER_TILE_HDR` / `ISR_APP_CFG_ORDER_TILE_DTL` insert script — or
 import an existing script and edit it visually.
 
 ## Run
